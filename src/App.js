@@ -1,6 +1,5 @@
 import React from 'react';
-import RecruitmentATS from './components/RecruitmentATS';
-// or from './RecruitmentATS' depending on your file structure
+import RecruitmentATS from './RecruitmentATS';
 
 function App() {
   return <RecruitmentATS />;
