@@ -1,5 +1,5 @@
 import React from 'react';
-import RecruitmentATS from '../RecruitmentATS.jsx';
+import RecruitmentATS from './RecruitmentATS.jsx';
 
 function App() {
   return <RecruitmentATS />;
