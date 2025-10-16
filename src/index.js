@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import RecruitmentATS from '../RecruitmentATS.jsx';
+import App from './App';
 
 ReactDOM.render(
-  <RecruitmentATS />,
+  <App />,
   document.getElementById('root')
 );
