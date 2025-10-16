@@ -1,3 +1,4 @@
-function App() {
+function App() 
+{
   return <RecruitmentATS />;
 }
